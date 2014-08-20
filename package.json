@@ -1,0 +1,26 @@
+{
+  "name": "clapping_simulation",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayth/clapping_simulation.git"
+  },
+  "author": "mayth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayth/clapping_simulation/issues"
+  },
+  "homepage": "https://github.com/mayth/clapping_simulation",
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "grunt": "^0.4.5",
+    "grunt-bower-task": "^0.4.0",
+    "grunt-contrib-coffee": "^0.11.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
